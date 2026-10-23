@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these results, please cite the article below."
+title: "Stochastic Spider Webs: Bio-inspired Metamaterials Design and Structural Optimization"
+authors:
+  - family-names: Elleithy
+    given-names: Mohamed
+    affiliation: Virginia Tech
+  - family-names: Acar
+    given-names: Pınar
+    affiliation: Virginia Tech
+repository-code: "https://github.com/Melleithy/Stochastic-Spider-Webs-Bio-inspired-Metamaterials-Design-and-Structural-Optimization"
+keywords:
+  - metamaterials
+  - spider web
+  - honeycomb
+  - Bayesian optimization
+  - structural optimization
+preferred-citation:
+  type: article
+  title: "Stochastic Spider Webs: Bio-inspired Metamaterials Design and Structural Optimization"
+  authors:
+    - family-names: Elleithy
+      given-names: Mohamed
+    - family-names: Acar
+      given-names: Pınar
+  journal: "Smart Materials and Structures"
+  year: 2026
